@@ -2,7 +2,7 @@
 	<img alt="logo" src="./astar-qs-ui/src/assets/logo/logo.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Astar</h1>
-<h4 align="center">基于SpringBoot+Vue前后端分离的Java快速开发框架</h4>
+<h4 align="center">基于SpringBoot+Vue前后端分离的问卷调查系统</h4>
 <p align="center">
 
 [//]: # (	<a href="https://gitee.com/y_project/Astar-Vue/stargazers"><img src="https://gitee.com/y_project/Astar-Vue/badge/star.svg?theme=dark"></a>)
