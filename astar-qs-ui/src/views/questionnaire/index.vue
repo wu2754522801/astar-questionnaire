@@ -243,13 +243,17 @@ export default {
     qsFillManage(row) {
       this.tjloading = true;
       this.tjQueryParams.id = row.id;
-      qsFillManage(this.tjQueryParams).then(response => {
-        this.titleList = response.titleList;
-        this.qsManageList = response.rows;
-        this.dialogTableVisible = true;
-        this.tjTotal = response.total;
-        this.tjloading = false;
-      });
+      if (!row.status) {
+        this.$modal.msgWarning("请先配置问卷！");
+      } else {
+        qsFillManage(this.tjQueryParams).then(response => {
+          this.titleList = response.titleList;
+          this.qsManageList = response.rows;
+          this.dialogTableVisible = true;
+          this.tjTotal = response.total;
+          this.tjloading = false;
+        });
+      }
     },
     // 取消按钮
     cancel() {
