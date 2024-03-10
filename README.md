@@ -1,7 +1,7 @@
 <p align="center">
 	<img alt="logo" src="./astar-qs-ui/src/assets/logo/logo.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Astar</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Astar问卷调查系统</h1>
 <h4 align="center">基于SpringBoot+Vue前后端分离的问卷调查系统</h4>
 <p align="center">
 
@@ -23,6 +23,10 @@
 
 ## 在线体验
 演示地址：http://124.221.91.143:1024
+
+## 本地部署
+账号：admin
+密码：admin2024
 
 ## 演示图
 
