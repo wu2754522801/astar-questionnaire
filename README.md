@@ -29,7 +29,23 @@
 密码：admin2024
 
 ## 演示图
+### 手机端效果
 
+<table>
+    <tr>
+        <td>大学生就业问卷调查</td>
+        <td>扫码体验：<img src="./demo/daxuesheng.png"/></td>
+    </tr>
+    <tr>
+       <td><img src="./demo/7.jpg"/></td>
+        <td><img src="./demo/8.jpg"/></td>
+    </tr>
+<tr>
+        <td>工作调研</td>
+        <td>扫码体验：<img src="./demo/work.png"/></td>
+    </tr>
+</table>
+### PC端
 <table>
     <tr>
         <td><img src="./demo/1.png"/></td>
@@ -45,6 +61,7 @@
     </tr>
 	
 </table>
+
 
 
 ## 一颗星前后端分离交流群
