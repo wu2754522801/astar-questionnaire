@@ -83,3 +83,9 @@ Happy surveying! 📝✨
 
 感谢若依框架提供快速开发脚手架项目
 <a href="https://gitee.com/y_project/RuoYi-Vue">RuoYi-Vue</a>
+
+# 联系
+
+* 商务QQ：`2754522801`
+* 商务微信：`wu2754522801`
+* 微信群：`联系作者`
